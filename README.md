@@ -18,7 +18,7 @@ Sebuah projek akhir bootcamp dari <b>PyAutoID</b> untuk melakukan test aplikasi 
 Bahasa pemrograman yang digunakan adalah <b>Python</b> untuk menulis script <b>Automation Testing</b>. Sedangkan untuk teks editor yang digunakan disini adalah menggunakan <b>Visual Studio Code</b>. <b>Automation Testing</b> ini merupakan sebuah projek akhir dari <b>Bootcamp Selenium PyAutoID</b> dengan alur tes melakukan login pada sebuah alamat Web. Framework testing yang digunakan adalah <b>Pytest</b> yang hasil dari testing tersebut akan ditampilkan dalam bentuk <b>HTML</b>. Alamat web yang digunakan untuk testing login disini adalah <a href="url">https://dribbble.com/session/new</a> 
 <h3><b>Note</b></h3>
 Pada alamat web tersebut terdapat limit akses ketika login seperti gambar berikut.
-<img src="Screenshoot/LimitAkses.jpg">
+<img src="Screenshoot/LimitAkses.JPG">
 </p>
 <hr>
 <br>
@@ -146,20 +146,20 @@ Pada alamat web tersebut terdapat limit akses ketika login seperti gambar beriku
     <br>import pytest</br>
     </div>
     <li>Memasukkan script untuk melakukan testing secara otomatis. Berikut listing program automation tersebut</li>
-    <img src="Screenshoot/Script 1.jpg"/>
-    <img src="Screenshoot/Script 2.jpg"/>
+    <img src="Screenshoot/Script 1.JPG"/>
+    <img src="Screenshoot/Script 2.JPG"/>
     <li>Menjalankan perintah tersebut dengan memasukkan perintah pada terminal yang terdapat pada teks editor sebagai berikut.</li>
     <div style="background-color:black;color:white;padding:10px" >
     python -m pytest -v test_namafile.py
     </div>
     Maka akan memunculkan output seperti gambar dibawah.
-    <img src="Screenshoot/OutputTerminal.jpg"/>
+    <img src="Screenshoot/OutputTerminal.JPG"/>
     <li>Membuat output report kedalam bentuk html dengan memasukkan perintah berikut kedalam terminal.</li>
     <div style="background-color:black;color:white;padding:10px" >
     python -m pytest -v test_namafile.py --html=namafilereport.html
     </div>
     Maka hasil dari perintah tersebut akan memberikan file dalam bentuk html sebagai berikut.
-    <img src="Screenshoot/ReportHtml.jpg"/>
+    <img src="Screenshoot/ReportHtml.JPG"/>
     Sehingga lebih mudah dibaca daripada hasil output yang ditampilkan pada terminal.
 </ul>
 </p>
