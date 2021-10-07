@@ -121,16 +121,16 @@ Pada alamat web tersebut terdapat limit akses ketika login seperti gambar beriku
     </ol>
     <li>Install <b>WebDriver</b></li>
     Driver disini tergantung web browser yang digunakan, dalam hal ini digunakan Chrome Driver. Dan jika menggunakan Chrome Driver diharapkan menggunakan versi terbaru sesuai versi yang ada pada Chrome. Berikut link download.
-    <a href="url">https://chromedriver.chromium.org/</a>
+    <br><a href="url">https://chromedriver.chromium.org/</a>
     <li>Install <b>Selenium</b></li>
     Buka Command Prompt lalu masukkan perintah dibawah. Maka selenium akan terinstall.
-    <div style="background-color:black;color:white;padding:10px">pip install selenium</div>
+    <img src="Screenshoot/InstallSele.JPG"/>
     <li>Install <b>Pytest</b></li>
     Buka Command Prompt lalu masukkan perintah dibawah. Maka pytest akan otomatis terinstall.
-    <div style="background-color:black;color:white;padding:10px">pip install pytest</div>
+    <img src="Screenshoot/InstallPytest.JPG"/>
     <li>Install <b>Pytest Html</b></li>
     Buka Command Prompt lalu masukkan perintah dibawah. Maka pytest html akan otomatis terinstall.
-    <div style="background-color:black;color:white;padding:10px">pip install pytest-html</div>
+    <img src="Screenshoot/InstallPytestHtml.JPG"/>
 </ul>
 </p>
 <hr>
