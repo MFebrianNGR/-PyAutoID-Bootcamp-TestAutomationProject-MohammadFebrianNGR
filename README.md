@@ -147,11 +147,11 @@ Pada alamat web tersebut terdapat limit akses ketika login seperti gambar beriku
     <img src="Screenshoot/Script 2.JPG"/>
     <li>Menjalankan perintah tersebut dengan memasukkan perintah pada terminal yang terdapat pada teks editor sebagai berikut.</li>
     <img src="Screenshoot/RunPytest.JPG"/>
-    Maka akan memunculkan output seperti gambar dibawah.
+    <br>Maka akan memunculkan output seperti gambar dibawah.
     <img src="Screenshoot/OutputTerminal.JPG"/>
     <li>Membuat output report kedalam bentuk html dengan memasukkan perintah berikut kedalam terminal.</li>
     <img src="Screenshoot/RunPytestHtml.JPG"/>
-    Maka hasil dari perintah tersebut akan memberikan file dalam bentuk html sebagai berikut.
+    <br>Maka hasil dari perintah tersebut akan memberikan file dalam bentuk html sebagai berikut.
     <img src="Screenshoot/ReportHtml.JPG"/>
     Sehingga lebih mudah dibaca daripada hasil output yang ditampilkan pada terminal.
 </ul>
