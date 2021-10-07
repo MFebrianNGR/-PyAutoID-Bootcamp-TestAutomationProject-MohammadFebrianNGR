@@ -141,10 +141,7 @@ Pada alamat web tersebut terdapat limit akses ketika login seperti gambar beriku
 <hr>
 <ul>
     <li>Memulai program dengan memasukkan library webdriver dari selenium dan juga pytest dengan memasukkan perintah</li> 
-    <div style="background-color:black;color:white;padding:10px" >
-    from selenium import webdriver
-    <br>import pytest</br>
-    </div>
+    <img src="Screenshoot/Import.JPG"/>
     <li>Memasukkan script untuk melakukan testing secara otomatis. Berikut listing program automation tersebut</li>
     <img src="Screenshoot/Script 1.JPG"/>
     <img src="Screenshoot/Script 2.JPG"/>
